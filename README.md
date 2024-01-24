@@ -35,3 +35,6 @@ CSS grid system for button alignments. Use event listeners, if-else statements, 
 loops to handle user input and perform calculations. This project requires some skill but can be
 done with basic knowledge of these technologies..
 
+![image](https://github.com/MahaAli15/CODSOFT/assets/62219295/b1c2bd73-3e11-410c-b9ff-03e98eae7b03)
+![image](https://github.com/MahaAli15/CODSOFT/assets/62219295/4ca0c23a-783f-4b0a-a1af-ca6f14b86248)
+![image](https://github.com/MahaAli15/CODSOFT/assets/62219295/f8ca344d-4013-4f63-b7c7-d9407f0c1d76)
