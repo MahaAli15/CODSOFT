@@ -1,6 +1,6 @@
 # CODSOFT
 
-WEB DEVELOPMENT | LEVEL 1 | TASK 1 | PORTFOLIO
+WEB DEVELOPMENT | LEVEL 1 | TASK 1 | PORTFOLIO | OUTPUT
 
 Creating a personal portfolio using CSS and HTML is a popular beginner web development 
 project.
@@ -11,7 +11,7 @@ project.
 ![image](https://github.com/MahaAli15/CODSOFT/assets/62219295/e625ab50-71a8-49b7-8df9-4f1171c19ad1)
 ![image](https://github.com/MahaAli15/CODSOFT/assets/62219295/9d761583-efd2-43a7-9962-c7169d28365c)
 
-WEB DEVELOPMENT | LEVEL 1 | TASK 2 | LANDING PAGE
+WEB DEVELOPMENT | LEVEL 1 | TASK 2 | LANDING PAGE | OUTPUT
 
 A landing page is an ideal web development project for beginners. It requires basic
 knowledge of HTML and CSS. Through this project, you'll learn to create columns, divide
@@ -26,7 +26,7 @@ encouraging your creativity while ensuring a visually appealing and user-friendl
 ![image](https://github.com/MahaAli15/CODSOFT/assets/62219295/2a099599-5f32-4b5d-b92d-73c74a88c504)
 ![image](https://github.com/MahaAli15/CODSOFT/assets/62219295/9b0f655e-2287-476b-b6d7-b0f7dcffa2e0)
 
-WEB DEVELOPMENT | LEVEL 1 | TASK 3 | CALCULATOR
+WEB DEVELOPMENT | LEVEL 1 | TASK 3 | CALCULATOR | OUTPUT
 
 To create a basic calculator using CSS, HTML, and JavaScript, you'll need to implement an
 interactive interface with buttons for addition, subtraction, multiplication, and division
